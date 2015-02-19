@@ -1,5 +1,5 @@
 name:                haskell-htf-seed
-version:             0.1.0.0
+version:             0.1
 build-type:          Simple
 cabal-version:       >=1.10
 
@@ -10,10 +10,10 @@ library
   default-language:    Haskell2010
 
 test-suite kata_test
-  main-is: test/kata_test.hs
+  main-is: test/Kata_test.hs
   type: exitcode-stdio-1.0
   build-depends: base,
-                 HUnit
+                 HTF==0.12.2.3
   hs-source-dirs: .,
                   src
   default-language: Haskell2010

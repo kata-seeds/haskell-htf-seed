@@ -1,12 +1,12 @@
-# [Kata Seeds](https://github.com/kata-seeds): Haskell + HUnit
-[![Build Status](https://travis-ci.org/kata-seeds/haskell-hunit-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/haskell-hunit-seed)
+# [Kata Seeds](https://github.com/kata-seeds): [Haskell](https://www.haskell.org) + [HTF](http://hackage.haskell.org/package/HTF/docs/Test-Framework-Tutorial.html)
+[![Build Status](https://travis-ci.org/kata-seeds/haskell-htf-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/haskell-HTF-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/haskell-hunit-seed.git
-    cd haskell-hunit-seed
+    git clone https://github.com/kata-seeds/haskell-htf-seed.git
+    cd haskell-htf-seed
 
 Install dependencies and run your tests with `make`:
 
